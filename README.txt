@@ -1,4 +1,4 @@
-The code of this repo is in https://github.com/joaoramia/blood-donor-app
+The code of this repo is in https://github.com/joaoramia/blood-donor
 
 You need to have Node.js and Mongodb installed to run this application (if you want to use your own database). Please see https://nodejs.org/en/download/ and https://docs.mongodb.com/manual/installation/ as a reference
 
