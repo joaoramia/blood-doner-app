@@ -1,4 +1,6 @@
-You need to have Node.js and Mongodb installed to run this application. Please see https://nodejs.org/en/download/ and https://docs.mongodb.com/manual/installation/ as a reference
+The code of this repo is in https://github.com/joaoramia/blood-donor-app
+
+You need to have Node.js and Mongodb installed to run this application (if you want to use your own database). Please see https://nodejs.org/en/download/ and https://docs.mongodb.com/manual/installation/ as a reference
 
 Please make sure you have the Mongodb service running. Note that the mongoose.connect method is pointing to 'mongodb://localhost:27017/blood-donor-jramia' for this application - make sure to change it however you prefer
 
